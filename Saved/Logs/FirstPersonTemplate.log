@@ -1522,3 +1522,29 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-12.42.55:387][869]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-12.42.55:387][869]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-12.42.55:388][869]AssetCheck: /Game/FirstPerson/Blueprints/new/NewBlueprint Validating asset
+[2025.02.22-12.43.52:392][ 65]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.02.22-12.43.57:105][ 80]LogDerivedDataCache: C:/Users/dzami/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.22-12.46.22:161][624]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.22-12.46.22:184][624]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.22-12.46.22:200][624]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.22-12.46.22:219][625]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.22-12.46.23:151][640]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.02.22-12.46.23:171][640]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.22-12.46.29:193][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.02.22-12.46.31:393][706]LogSlate: Window 'Save Content' being destroyed
+[2025.02.22-12.46.31:428][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-12.46.31:492][706]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewBlueprint] ([2] browsable assets)...
+[2025.02.22-12.46.31:492][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewBlueprint]
+[2025.02.22-12.46.31:492][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBlueprint" FILE="../../../../../../Users/dzami/OneDrive/Desktop/myFirstGame/Content/NewBlueprint.uasset" SILENT=true
+[2025.02.22-12.46.31:500][706]LogSavePackage: Moving output files for package: /Game/NewBlueprint
+[2025.02.22-12.46.31:500][706]LogSavePackage: Moving '../../../../../../Users/dzami/OneDrive/Desktop/myFirstGame/Saved/NewBlueprint977ED8CC4A369CFE78F79A88FB41C5BA.tmp' to '../../../../../../Users/dzami/OneDrive/Desktop/myFirstGame/Content/NewBlueprint.uasset'
+[2025.02.22-12.46.31:520][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.150 ms (total: 202.854 ms)
+[2025.02.22-12.46.31:573][706]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-12.46.31:573][706]LogContentValidation: Enabled validators:
+[2025.02.22-12.46.31:573][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-12.46.31:573][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-12.46.31:573][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-12.46.31:573][706]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-12.46.31:573][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-12.46.31:573][706]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-12.46.31:574][706]AssetCheck: /Game/NewBlueprint Validating asset
