@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/DY/K8N31WHJOO5IYH3DFFVZJK.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CW/VKW4TJKJJQF9TGPV4IOC3Y.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8D/9O8E5SCCK2SRP99I9C4YOM.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/BS/7U1V6ZH88M05PVRKFRYNLR.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_Target.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/UI_Score.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CV/8PE38LU0I4F7PUX4LZ8XTJ.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/34/6KFAW2N6GGVSH5J3OI2VJX.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/CM/L9KNC87ZKMR52TXCW3MBYH.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZJ/AWZQY5D8VJNG9D96CK012M.uasset",
+				"C:/Users/dzami/OneDrive/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/UI_Won.uasset"
+			]
+		}
+	]
+}
